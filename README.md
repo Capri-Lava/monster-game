@@ -1,3 +1,5 @@
+<img src="icon.svg" width="96" alt="Ikona: nietoperz z otwartą paszczą">
+
 # Noc Nietoperzy
 
 Gra FPP w przeglądarce. Gracz stoi w miejscu, nocą w transylwańskim lesie, a nietoperze lecą w jego stronę.
